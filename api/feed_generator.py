@@ -1,8 +1,7 @@
 
 def get_user_feed(user_id, posts):
-    feed = []
-    for post in posts:
-        # BUG: N+1 Query - Fetching user metadata for every single post
-        author = db.get_user(post.author_id)
-        feed.append({"text": post.text, "author": author.name})
-    return feed
+    # FIX: Use batch retrieval to avoid N+1 query problem
+    author_ids = [p.author_id for p in posts]
+    authors = db.get_users_bulk(author_ids)
+    author_map = {a.id: a.name for a in authors}
+    return [{"text": p.text, "author": author_map[p.author_id]} for p in posts]
