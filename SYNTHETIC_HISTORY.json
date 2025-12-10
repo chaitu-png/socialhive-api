@@ -1,0 +1,289 @@
+{
+    "project": "socialhive-api",
+    "commit_history": [
+        {
+            "hash": "fc0b929f",
+            "author": "dev-bot@peis.ai",
+            "date": "2025-12-11T01:37:03.840353",
+            "message": "feat: initial commit for socialhive-api",
+            "risk_score": "low"
+        },
+        {
+            "hash": "56c2b9b3",
+            "author": "dev-bot@peis.ai",
+            "date": "2025-12-14T01:37:03.840353",
+            "message": "refactor: improve internal data structures",
+            "risk_score": "low"
+        },
+        {
+            "hash": "1eb94980",
+            "author": "dev-bot@peis.ai",
+            "date": "2025-12-18T01:37:03.840353",
+            "message": "feat: implement core socialhive-api module",
+            "risk_score": "low"
+        },
+        {
+            "hash": "e71119c6",
+            "author": "dev-bot@peis.ai",
+            "date": "2025-12-19T01:37:03.840353",
+            "message": "feat: implement core socialhive-api module",
+            "risk_score": "low"
+        },
+        {
+            "hash": "b712ad10",
+            "author": "dev-bot@peis.ai",
+            "date": "2025-12-21T01:37:03.840353",
+            "message": "docs: update architecture diagram",
+            "risk_score": "low"
+        },
+        {
+            "hash": "d6a5533c",
+            "author": "dev-bot@peis.ai",
+            "date": "2025-12-22T01:37:03.840353",
+            "message": "test: add unit tests for base logic",
+            "risk_score": "low"
+        },
+        {
+            "hash": "3065b264",
+            "author": "dev-bot@peis.ai",
+            "date": "2025-12-24T01:37:03.840353",
+            "message": "refactor: improve internal data structures",
+            "risk_score": "low"
+        },
+        {
+            "hash": "da3e0150",
+            "author": "dev-bot@peis.ai",
+            "date": "2025-12-27T01:37:03.840353",
+            "message": "docs: update architecture diagram",
+            "risk_score": "low"
+        },
+        {
+            "hash": "bdfe1f0f",
+            "author": "dev-bot@peis.ai",
+            "date": "2025-12-30T01:37:03.840353",
+            "message": "refactor: improve internal data structures",
+            "risk_score": "low"
+        },
+        {
+            "hash": "2cf36b23",
+            "author": "dev-bot@peis.ai",
+            "date": "2026-01-01T01:37:03.840353",
+            "message": "refactor: improve internal data structures",
+            "risk_score": "low"
+        },
+        {
+            "hash": "71887152",
+            "author": "dev-bot@peis.ai",
+            "date": "2026-01-05T01:37:03.840353",
+            "message": "docs: update architecture diagram",
+            "risk_score": "low"
+        },
+        {
+            "hash": "3481bd50",
+            "author": "dev-bot@peis.ai",
+            "date": "2026-01-07T01:37:03.840353",
+            "message": "refactor: improve internal data structures",
+            "risk_score": "low"
+        },
+        {
+            "hash": "97db97dd",
+            "author": "dev-bot@peis.ai",
+            "date": "2026-01-10T01:37:03.840353",
+            "message": "feat: implement core socialhive-api module",
+            "risk_score": "low"
+        },
+        {
+            "hash": "fddb0190",
+            "author": "dev-bot@peis.ai",
+            "date": "2026-01-14T01:37:03.840353",
+            "message": "feat: implement core socialhive-api module",
+            "risk_score": "low"
+        },
+        {
+            "hash": "12aca2e8",
+            "author": "dev-bot@peis.ai",
+            "date": "2026-01-16T01:37:03.840353",
+            "message": "refactor: improve internal data structures",
+            "risk_score": "low"
+        },
+        {
+            "hash": "7b414e12",
+            "author": "dev-bot@peis.ai",
+            "date": "2026-01-18T01:37:03.840353",
+            "message": "docs: update architecture diagram",
+            "risk_score": "low"
+        },
+        {
+            "hash": "58bcdd2a",
+            "author": "dev-bot@peis.ai",
+            "date": "2026-01-23T01:37:03.840353",
+            "message": "feat: add high-performance batch processing",
+            "risk_score": "high"
+        },
+        {
+            "hash": "a1d12055",
+            "author": "dev-bot@peis.ai",
+            "date": "2026-01-25T01:37:03.840353",
+            "message": "fix: resolve memory leak",
+            "risk_score": "low"
+        },
+        {
+            "hash": "b6dcc118",
+            "author": "dev-bot@peis.ai",
+            "date": "2026-01-26T01:37:03.840353",
+            "message": "feat: auxiliary feature 1 for socialhive-api",
+            "risk_score": "medium"
+        },
+        {
+            "hash": "4ec5f868",
+            "author": "dev-bot@peis.ai",
+            "date": "2026-01-29T01:37:03.840353",
+            "message": "feat: auxiliary feature 2 for socialhive-api",
+            "risk_score": "medium"
+        },
+        {
+            "hash": "93b9c85f",
+            "author": "dev-bot@peis.ai",
+            "date": "2026-02-01T01:37:03.840353",
+            "message": "fix: resolve rounding error",
+            "risk_score": "low"
+        },
+        {
+            "hash": "a0b93cb2",
+            "author": "dev-bot@peis.ai",
+            "date": "2026-02-03T01:37:03.840353",
+            "message": "feat: auxiliary feature 4 for socialhive-api",
+            "risk_score": "medium"
+        },
+        {
+            "hash": "803c48a6",
+            "author": "dev-bot@peis.ai",
+            "date": "2026-02-06T01:37:03.840353",
+            "message": "fix: resolve race condition",
+            "risk_score": "low"
+        },
+        {
+            "hash": "65f4ec54",
+            "author": "dev-bot@peis.ai",
+            "date": "2026-02-09T01:37:03.840353",
+            "message": "fix: resolve race condition",
+            "risk_score": "low"
+        },
+        {
+            "hash": "c2aaaa07",
+            "author": "dev-bot@peis.ai",
+            "date": "2026-02-12T01:37:03.840353",
+            "message": "feat: auxiliary feature 7 for socialhive-api",
+            "risk_score": "medium"
+        },
+        {
+            "hash": "c50bc940",
+            "author": "dev-bot@peis.ai",
+            "date": "2026-02-15T01:37:03.840353",
+            "message": "fix: resolve memory leak",
+            "risk_score": "low"
+        },
+        {
+            "hash": "c050a8bc",
+            "author": "dev-bot@peis.ai",
+            "date": "2026-02-18T01:37:03.840353",
+            "message": "fix: resolve memory leak",
+            "risk_score": "low"
+        },
+        {
+            "hash": "43c94f66",
+            "author": "dev-bot@peis.ai",
+            "date": "2026-04-05T01:37:03.840353",
+            "message": "refactor: optimize database query layer",
+            "risk_score": "critical"
+        }
+    ],
+    "deployments": [
+        {
+            "id": "DEP-4594",
+            "timestamp": "2025-12-14T01:37:03.840353",
+            "status": "success",
+            "environment": "production"
+        },
+        {
+            "id": "DEP-4409",
+            "timestamp": "2025-12-21T01:37:03.840353",
+            "status": "success",
+            "environment": "production"
+        },
+        {
+            "id": "DEP-4507",
+            "timestamp": "2025-12-27T01:37:03.840353",
+            "status": "success",
+            "environment": "production"
+        },
+        {
+            "id": "DEP-3268",
+            "timestamp": "2026-01-05T01:37:03.840353",
+            "status": "success",
+            "environment": "production"
+        },
+        {
+            "id": "DEP-7350",
+            "timestamp": "2026-01-14T01:37:03.840353",
+            "status": "success",
+            "environment": "production"
+        },
+        {
+            "id": "DEP-4369",
+            "timestamp": "2026-01-23T01:37:03.840353",
+            "status": "failed",
+            "environment": "production"
+        },
+        {
+            "id": "DEP-1680",
+            "timestamp": "2026-04-05T01:37:03.840353",
+            "status": "success",
+            "environment": "production"
+        }
+    ],
+    "test_reports": [
+        {
+            "timestamp": "2025-12-14T01:37:03.840353",
+            "coverage_percent": 42.35,
+            "passed": 172,
+            "failed": 1
+        },
+        {
+            "timestamp": "2025-12-21T01:37:03.840353",
+            "coverage_percent": 58.2,
+            "passed": 193,
+            "failed": 0
+        },
+        {
+            "timestamp": "2025-12-27T01:37:03.840353",
+            "coverage_percent": 42.95,
+            "passed": 176,
+            "failed": 5
+        },
+        {
+            "timestamp": "2026-01-05T01:37:03.840353",
+            "coverage_percent": 48.48,
+            "passed": 94,
+            "failed": 4
+        },
+        {
+            "timestamp": "2026-01-14T01:37:03.840353",
+            "coverage_percent": 44.14,
+            "passed": 101,
+            "failed": 3
+        },
+        {
+            "timestamp": "2026-01-23T01:37:03.840353",
+            "coverage_percent": 44.55,
+            "passed": 197,
+            "failed": 3
+        },
+        {
+            "timestamp": "2026-04-05T01:37:03.840353",
+            "coverage_percent": 50.47,
+            "passed": 124,
+            "failed": 4
+        }
+    ]
+}
